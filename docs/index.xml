@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>something or nothing is coming soon</title>
+    <link>https://tcbmonster.github.io/tcb-monster/</link>
+    <description>Recent content on something or nothing is coming soon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tcbmonster.github.io/tcb-monster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nothing here</title>
+      <link>https://tcbmonster.github.io/tcb-monster/about/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tcbmonster.github.io/tcb-monster/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
