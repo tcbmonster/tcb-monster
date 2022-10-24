@@ -137,9 +137,3 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-
