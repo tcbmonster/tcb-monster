@@ -1,4 +1,4 @@
-baseURL = "https://tcbmonster.monster/"
+baseURL = "https://tcb.monster/"
 title   = "something or nothing is coming soon"
 languageCode = "en-us"
 theme = "hello-friend-ng"
